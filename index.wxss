@@ -1,0 +1,5 @@
+/* index.wxss */
+.name{
+  color:red;
+  font-size:20px;
+}
