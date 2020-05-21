@@ -1,4 +1,4 @@
 <!--home/home.wxml-->
 <text class="name">你好，我是小程序</text>
-<text>第一次操作</text>
-<text>添加两个文本</text>
+<text>第二个tag</text>
+<text>tag02</text>
